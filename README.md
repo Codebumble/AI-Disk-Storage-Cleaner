@@ -2,6 +2,8 @@
 
 Nov 4, 2026 · @Codebumble Inc
 
+![Image](https://i.ibb.co.com/Tx6pKSxm/dfg.jpg)
+
 ## How to use
 
 Copy the tab for the machine you're cleaning, edit its Parameters block, and paste it as the first message of a fresh agent session.
